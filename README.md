@@ -73,7 +73,7 @@ Aqui está o trecho para você copiar e colar no seu `README.md`:
 
 Nesta seção, apresentamos o funcionamento integrado dos módulos desenvolvidos.
 
-[![Título do Vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=wkxP92w58_g)
+[![Assista ao vídeo](https://www.youtube.com/watch?v=wkxP92w58_g)](https://www.youtube.com/watch?v=wkxP92w58_g)
 ---
 
 
