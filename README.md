@@ -63,6 +63,21 @@ O projeto utiliza uma estrutura modular, centralizada em um arquivo `top` que ge
 
 ---
 
+Para manter o padrão visual e profissional do seu repositório de monitoria, adicionei uma seção de **Demonstrações Práticas**. Esta seção é ideal para mostrar os sistemas em funcionamento, o que agrega muito valor ao portfólio de um monitor.
+
+Aqui está o trecho para você copiar e colar no seu `README.md`:
+
+---
+
+## 🎥 Demonstrações Práticas
+
+Nesta seção, apresentamos o funcionamento integrado dos módulos desenvolvidos.
+
+[![Título do Vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=wkxP92w58_g)
+---
+
+
+
 ## 👨‍💻 Autor
 
 **Theógenes Gabriel Araújo de Andrade** Orientador: **Reinaldo Götz de Oliveira Junior** *Juazeiro - BA, 2026*
