@@ -72,8 +72,7 @@ Aqui está o trecho para você copiar e colar no seu `README.md`:
 ## 🎥 Demonstrações Práticas
 
 Nesta seção, apresentamos o funcionamento integrado dos módulos desenvolvidos.
-
-[![Texto Alternativo](https://img.youtube.com/vi/https://www.youtube.com/watch?v=wkxP92w58_g/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=wkxP92w58_g)
+[![Assista ao vídeo](https://img.youtube.com/vi/wkxP92w58_g/0.jpg)](https://www.youtube.com/watch?v=wkxP92w58_g)
 ---
 
 
