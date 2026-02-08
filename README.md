@@ -69,9 +69,8 @@ Aqui está o trecho para você copiar e colar no seu `README.md`:
 
 ---
 
-## 🎥 Demonstrações Práticas
+## 🎥 Demonstrações Práticas de um Projeto Selecionado
 
-Nesta seção, apresentamos o funcionamento integrado dos módulos desenvolvidos.
 [![Assista ao vídeo](https://img.youtube.com/vi/wkxP92w58_g/0.jpg)](https://www.youtube.com/watch?v=wkxP92w58_g)
 ---
 
